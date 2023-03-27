@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Service_ASP.NET_CPD.props" />
+</Project>
